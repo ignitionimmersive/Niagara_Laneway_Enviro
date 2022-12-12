@@ -1,0 +1,6 @@
+2022/12/12-12:02:17.854 3c0c Creating DB D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/12/12-12:02:18.053 3c0c Reusing MANIFEST D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/12-12:33:47.625 69c Level-0 table #5: started
+2022/12/12-12:33:47.756 69c Level-0 table #5: 7325 bytes OK
+2022/12/12-12:33:47.812 69c Delete type=0 #3
+2022/12/12-12:33:47.830 69c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
