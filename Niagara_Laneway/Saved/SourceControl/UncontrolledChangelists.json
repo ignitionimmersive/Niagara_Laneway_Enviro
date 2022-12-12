@@ -39,8 +39,26 @@
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/TEX/M_ModularAlley_05_Normal.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/TEX/M_ModularAlley_05_Roughness.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/TEX/M_ModularAlley_05_BaseColor.uasset",
-				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCENE/LanewayRender.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/MSPresets/M_MS_Default_Material/M_MS_Default_Material.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_05.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MSH/ModularAlley_05_MSH.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MSH/ModularAlley_06_MSH.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_06.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/MI_ModularAlley_07.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MSH/ModularAlley_07_MSH.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_07.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MSH/ModularAlley_09_MSH.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MSH/ModularAlley_08_MSH.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_08.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/MASTER/M_Master.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/MI_ModularAlley_05.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/MI_ModularAlley_06.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/MI_ModularAlley_08.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/Megascans/3D_Assets/Rusty_Bulkhead_Light_vgyidfpaw/BP_BulkheadLight.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MSH/Floor_MSH.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/Megascans/Surfaces/Cobblestone_tf5kacxr/MI_Cobblestone_tf5kacxr_8K.uasset",
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCENE/LanewayRender.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_01.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_02.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_03.uasset",
@@ -135,8 +153,7 @@
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/__ExternalActors__/SCENE/OpenWorld/8/10/J0H3C3FLUMY3GRTEATZH50.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/__ExternalActors__/SCENE/OpenWorld/C/I9/AJ6BGNL2CLVLI1RTL9FO2L.uasset",
 				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/__ExternalActors__/SCENE/OpenWorld/4/S4/XACO1KKMI66CBFJN9H2BRO.uasset",
-				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/__ExternalActors__/SCENE/OpenWorld/B/FS/YEUH0KPAUSFGKST2H2XGZJ.uasset",
-				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/SCAN/MAT/M_ModularAlley_05.uasset"
+				"D:/Github_Repos/Niagara_Laneway_Enviro/Niagara_Laneway/Content/__ExternalActors__/SCENE/OpenWorld/B/FS/YEUH0KPAUSFGKST2H2XGZJ.uasset"
 			]
 		}
 	]
